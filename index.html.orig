@@ -2,4 +2,8 @@ teste
 uma outra linha
 
 alterações realizadas pelos desenvolvedores: primeiro e segundo. 
+<<<<<<< HEAD
+merge utilizando ferramenta
+=======
 teste merge com ferramente visual.
+>>>>>>> da4bb0d76143320e5c00b43aff95cd98a8236caf
